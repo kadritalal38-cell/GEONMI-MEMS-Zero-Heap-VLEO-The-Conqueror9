@@ -13,9 +13,6 @@
 <img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/ac4cc16b-e462-4628-bfef-fcf7a4870f0f" />
 Disclaimer: All financial figures provided herein are purely hypothetical, estimated for illustrative purposes only, and do not constitute a binding rule or official guarantee.
 
----Disclaimer: All financial figures provided herein are purely hypothetical, estimated for illustrative purposes only, and do not constitute a binding rule or official guarantee.
-
-
 ## 🚀 Executive Summary & Commercial Value
 
 The **GEONMI-MEMS Zero-Heap VLEO** framework represents a paradigm shift in Very Low Earth Orbit (VLEO) satellite engineering. Designed specifically for 15kg SmallSat buses, this technology solves the critical longevity bottlenecks caused by severe orbital environments—including atomic oxygen (AO) erosion, aggressive thermal cycling, and micrometeoroid/orbital debris (MMOD) impacts.
