@@ -23,6 +23,7 @@ The **GEONMI-MEMS Zero-Heap VLEO** framework represents a paradigm shift in Very
 * **Maximized Power Generation:** Features an Integrated Solar-Skin architecture that optimizes surface utility, ensuring stable power output ($W$) despite environmental wear.
 * **Reduced Maintenance Overhead:** Self-healing nanoscale mechanisms reduce structural failure risks, yielding higher operational uptime and superior return on investment (ROI) for commercial satellite networks.
 
+<img width="550" height="365" alt="Screenshot_٢٠٢٦١١٢٤-٠١٠٩٢٩_Chrome" src="https://github.com/user-attachments/assets/cf4f83a6-18e9-4af2-a3bc-527215dc855b" />
 ### 🔬 High-Level Technical Outputs (IP Protected)
 * **Optimized Thermal Stress Mitigation:** Advanced leading-edge geometry effectively absorbs thermal strain, reducing structural stress accumulation by up to 45% during rapid shadow-to-sun orbital transitions.
 * **Dynamic Non-Longitudinal Passivation:** Formulates a self-generating protective barrier against atomic oxygen flux in orbital trajectories.
