@@ -6,11 +6,12 @@
 [![Domain: VLEO Aerospace](https://img.shields.io/badge/Domain-VLEO%20Aerospace%20%26%20MEMS-green.svg)](https://github.com/kadritalal38-cell)
 [![Author: Mohamed Talal Kadri](https://img.shields.io/badge/Architect-Mohamed%20Talal%20Kadri-orange.svg)](https://github.com/kadritalal38-cell)
 
+<img width="695" height="1110" alt="Screenshot_٢٠٢٦١١٢٤-٠١١٢٠١_Gallery" src="https://github.com/user-attachments/assets/657b9754-7db5-4766-837f-89910bccd4f2" />
 ---
 
 > **⚠️ Commercial & Civilian Application Statement**  
 > *This architectural suite and all associated simulation engines are exclusively engineered for **civilian and commercial space operations** (such as commercial Earth observation, global broadband constellations, and environmental telemetry SmallSats). This technology operates strictly outside any military scope, defense integration, or weaponized applications.*
-<img width="1920" height="1280" alt="Image" src="https://github.com/user-attachments/assets/ac4cc16b-e462-4628-bfef-fcf7a4870f0f" />
+
 Disclaimer: All financial figures provided herein are purely hypothetical, estimated for illustrative purposes only, and do not constitute a binding rule or official guarantee.
 
 ## 🚀 Executive Summary & Commercial Value
